@@ -1,0 +1,7 @@
+{
+  "name": "cypress-learning",
+  "version": "1.0.0",
+  "dependencies": {
+    "cypress": "^13.3.0"
+  }
+}
